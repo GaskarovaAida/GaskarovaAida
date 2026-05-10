@@ -1,16 +1,29 @@
-## Hi there 👋
+# Аида Гаскарова
 
-<!--
-**GaskarovaAida/GaskarovaAida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst
+## Превращаю данные в решения — от SQL-анализа и A/B-тестов до дата-пайплайнов и дашбордов
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+- **[Портфолио: Portfolio](https://github.com/GaskarovaAida/Portfolio)**
+
+---
+
+## Навыки
+
+- **Программирование:** Python, SQL
+- **Анализ данных:** pandas, NumPy, SciPy, StatsModels
+- **Визуализация:** Matplotlib, Seaborn, DataLens
+- **Продуктовая аналитика:** MAU, Retention Rate, LTV, воронки конверсии, A/B-тесты
+- **Обработка больших данных:** PySpark
+- **Базы данных:** PostgreSQL, ClickHouse
+- **Инфраструктура:** Apache Airflow, S3
+
+---
+
+## Контакты
+
+aidapretty08@yandex.ru  
+[Telegram](https://t.me/AidaPretty89)
