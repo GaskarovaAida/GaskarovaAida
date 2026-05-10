@@ -1,29 +1,29 @@
-# Аида Гаскарова
+# Aida Gaskarova
 
-### Аналитик данных, Data Analyst/BI Analyst
-### Превращаю данные в решения — от SQL-анализа и A/B-тестов до дата-пайплайнов и дашбордов
-
----
-
-## Проекты
-
-- **[Портфолио: Portfolio](https://github.com/GaskarovaAida/Portfolio)**
+### Data Analyst | BI Analyst | Product Analyst
 
 ---
 
-## Навыки
+## Projects
 
-- **Программирование:** Python, SQL
-- **Анализ данных:** pandas, NumPy, SciPy, StatsModels
-- **Визуализация:** Matplotlib, Seaborn, DataLens
-- **Продуктовая аналитика:** MAU, Retention Rate, LTV, воронки конверсии, A/B-тесты
-- **Обработка больших данных:** PySpark
-- **Базы данных:** PostgreSQL, ClickHouse
-- **Инфраструктура:** Apache Airflow, S3
+- **[Portfolio](https://github.com/GaskarovaAida/Portfolio)**
 
 ---
 
-## Контакты
+## Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** pandas, NumPy, SciPy, StatsModels
+- **Visualization:** Matplotlib, Seaborn
+- **Product Analytics:** MAU, Retention Rate, LTV, conversion funnels, A/B testing
+- **BI Analytics:** DataLens, Tableau, Power BI
+- **Big Data:** PySpark
+- **Databases:** PostgreSQL, ClickHouse
+- **Infrastructure:** Apache Airflow, S3
+
+---
+
+## Contacts
 
 aidapretty08@yandex.ru  
 [Telegram](https://t.me/AidaPretty89)
